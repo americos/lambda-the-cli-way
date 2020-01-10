@@ -1,7 +1,7 @@
 # Hello World - Your First Lambda
 
 This section explains how to deploy and invoke a lambda function. Examples here will use Node JS as the runtime. 
-AWS Lambda supports other runtimes (Python, Ruby, Java, Go lang, .net) also. The document here
+AWS Lambda supports other runtimes (Python, Ruby, Java, JavaScript, Go lang, .net) also. The document here
 [AWS Lambda Runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html) list them in detail.
 
 #### (1) Create lambda function
